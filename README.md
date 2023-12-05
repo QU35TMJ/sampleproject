@@ -1,1 +1,3 @@
-# sampleproject# Sample Web App with Database
+# sampleproject
+
+A simple web application with a relational database
